@@ -1,4 +1,4 @@
-set :repo_url,        'git@github.com:hecbuma/match-public.git'
+set :repo_url,        'git@github.com:KarenVentura/match-public.git'
 set :application,     'match-public'
 set :user,            'deploy'
 set :puma_threads,    [4, 16]
